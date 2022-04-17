@@ -8,9 +8,9 @@ In this regression task we will predict the percentage of marks that a student i
 I solved this task and made some predictions using data that was allowed to me to use it for the task, so you will see:
 1. How to impelement simple linear regression using the Python Scikit-Learn library ?
 2. What are the required Packages for linear regression ?
-3. Simple explaination of each essential Package we used
-4. What are five basic steps when you’re implementing linear regression ?
-5. Show how to implement each of these five steps practically in this notebook
+3. Simple explaination of each essential Package I used.
+4. What are five basic steps to be considered when you’re implementing linear regression ?
+5. Show how to implement each of these five steps practically in this notebook.
 ## What are the technologies usedin this Notebook ?
 1. Scikit-Learn
 2. Pandas
