@@ -18,7 +18,7 @@ I solved this task and made some predictions using data that was allowed to me t
 4. Seaborn
 5. Numpy
 
-## What is up coming ?
+## What is upcoming ?
 I may try to write clean code with depth explaination of each cell, and may try to make this notebook to be as a reference to revision linear regression and answer questions like
 1. What is machine learning ?
 2. What are types of machine learning ?
