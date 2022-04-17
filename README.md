@@ -1,9 +1,12 @@
 # Prediction using supervised ML
+
 ## Overview
 This is a simple task. It was assigned to me from the Sparks Foundation organiztion to implement linear regression technique, So
 we will see how the Python Scikit-Learn library for machine learning can be used to implement regression functions. We will start with simple linear regression involving two variables.
+
 ## Problem statement
 In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
+
 ## Description
 I solved this task and made some predictions using data that was allowed to me to use it for the task, so you will see:
 1. How to impelement simple linear regression using the Python Scikit-Learn library ?
@@ -11,6 +14,8 @@ I solved this task and made some predictions using data that was allowed to me t
 3. Simple explaination of each essential Package I used.
 4. What are five basic steps to be considered when you’re implementing linear regression ?
 5. Show how to implement each of these five steps practically in this notebook.
+6. What are metrics used to evaluate linear regression model ?
+7. 
 ## What are the technologies usedin this Notebook ?
 1. Scikit-Learn
 2. Pandas
