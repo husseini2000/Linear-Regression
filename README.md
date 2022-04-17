@@ -15,7 +15,7 @@ I solved this task and made some predictions using data that was allowed to me t
 4. What are five basic steps to be considered when you’re implementing linear regression ?
 5. Show how to implement each of these five steps practically in this notebook.
 6. What are metrics used to evaluate linear regression model ?
-7. 
+
 ## What are the technologies usedin this Notebook ?
 1. Scikit-Learn
 2. Pandas
